@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+#  Spencer Prentiss's first CS193 home work!
+
+- The Instructors of CS193 LE 4 are seem really nice
+- My PSO TS's were really helpfull
+- The class seems like it will be helpfull in showing me how to not only succeed at Purdue but also in a CS career
+
